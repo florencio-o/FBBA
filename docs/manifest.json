@@ -1,0 +1,20 @@
+{
+  "short_name": "FBBA",
+  "name": "FBBA",
+  "theme_color": "#fff",
+  "background_color": "#fff",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/Florencio-O/FBBA/master/assets/fbla-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/Florencio-O/FBBA/master/assets/fbla-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "display": "standalone",
+  "start_url": "/"
+}
