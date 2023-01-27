@@ -9,4 +9,4 @@ Play as a block and demo your own project in FBBA!
 Developed with Scratch for FBLA Regionals 2019-2020
 
 # How to run
-Click the link [here](https://florencio-o.github.io/FBBA/) to play.
+Click the link [here](https://razziefox.com/FBBA/) to play.
